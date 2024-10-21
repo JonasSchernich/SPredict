@@ -4,3 +4,5 @@ matplotlib
 yfinance
 tensorflow
 scikit-learn
+pyxlsb
+xlrd
